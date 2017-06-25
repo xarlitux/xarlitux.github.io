@@ -1,0 +1,36 @@
+.body {
+  height: auto;
+  width: 384px;
+}
+.main {
+  border-style: solid;
+  border-width: thin;
+  border-color: lightgrey;
+  padding: 20px;
+  box-shadow: 5px 5px lightgrey;
+}
+.image {
+  border-style:solid;
+  border-width: thin;
+  border-color: transparent;
+  width: 300px;
+  padding: 20px;
+}
+.animal-information {
+  border-style:solid;
+  border-width: thin;
+  border-color: lightgrey;
+  padding: 20px;
+}
+span {
+  font-weight:bold;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.fact {
+  font-style: italic;
+}
